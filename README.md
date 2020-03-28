@@ -28,3 +28,6 @@ Centralizar as ferramentas ADVPL, sendo patchs, códigos fonte, IDE, plugins, do
 ## Redes sociais:
  - TOTVSDevelopers no Twitter - https://twitter.com/TOTVSDevelopers
  - TOTVSDevelopers no Facebook - https://www.facebook.com/totvsdevelopers/
+
+## Repositórios:
+ - NG Informática - https://github.com/nginformatica/
